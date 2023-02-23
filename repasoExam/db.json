@@ -1,0 +1,93 @@
+{
+  "conf": [
+    {
+      "id": 1,
+      "tipo": "Profesor"
+    },
+    {
+      "id": 2,
+      "tipo": "Alumno"
+    },
+    {
+      "id": 3,
+      "tipo": "Trabajador"
+    }
+  ],
+  "personas": [
+    {
+      "id": "1",
+      "nombre": "Catie",
+      "tipo": "Profesor"
+    },
+    {
+      "id": "2",
+      "nombre": "Temp",
+      "tipo": "Alumno"
+    },
+    {
+      "id": "3",
+      "nombre": "Griselda",
+      "tipo": "Trabajador"
+    },
+    {
+      "id": "4",
+      "nombre": "Eydie",
+      "tipo": "Profesor"
+    },
+    {
+      "id": "5",
+      "nombre": "Eddie",
+      "tipo": "Alumno"
+    },
+    {
+      "id": "9",
+      "nombre": "Claudianus",
+      "tipo": "Trabajador"
+    },
+    {
+      "id": "10",
+      "nombre": "Ronalda",
+      "tipo": "Profesor"
+    },
+    {
+      "id": "6",
+      "nombre": "Ekaterina",
+      "tipo": "Trabajador"
+    },
+    {
+      "id": "7",
+      "nombre": "Ric",
+      "tipo": "Profesor"
+    },
+    {
+      "id": "8",
+      "nombre": "Collie",
+      "tipo": "Alumno"
+    },
+    {
+      "id": "11",
+      "nombre": "Kristal",
+      "tipo": "Alumno"
+    },
+    {
+      "id": "12",
+      "nombre": "Christel",
+      "tipo": "Profesor"
+    },
+    {
+      "id": "13",
+      "nombre": "Carling",
+      "tipo": "Profesor"
+    },
+    {
+      "id": "14",
+      "nombre": "Cherida",
+      "tipo": "Trabajador"
+    },
+    {
+      "id": "15",
+      "nombre": "Paolina",
+      "tipo": "Profesor"
+    }
+  ]
+}
